@@ -1,4 +1,4 @@
-# Setting up ROS Melocic in Mac OS
+# Setting up ROS Melodic in Mac OS
 
 This repo provides a tutorial on how to setup ROS Melodic in Mac OS using Ubuntu 18.04 via Parallels 17.
 
